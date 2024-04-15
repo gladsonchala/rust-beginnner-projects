@@ -8,10 +8,7 @@ fn main() {
         } else if n > 1 {
             n -= 1;
             println!("{} bottles of beer on the wall, {} bottles of beer.", n, n);
-            print!("Take one down and pass it around, ");
-            continue;
-        } else {
-            println!("No more bottles of beer on the wall,");
+            print!("Take one down and pass it around, No more bottles of beer on the wall,");
             println!("no more bottles of beer.");
             println!("We've taken them down and passed them around;");
             println!("now we're drunk and passed out!");
