@@ -5,3 +5,7 @@ version = 3
 [[package]]
 name = "p2-basic-calculator"
 version = "0.1.0"
+
+[[package]]
+name = "p3-love-calculator"
+version = "0.1.0"

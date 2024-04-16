@@ -1,3 +1,4 @@
+workspace = { members = ["p3-love-calculator"] }
 [package]
 name = "p2-basic-calculator"
 version = "0.1.0"
