@@ -12,7 +12,7 @@ fn main() {
 
 fn welcome() {
     println!("*******************");
-    println!("***** WELCOME *****");
+    println!("***** LOVE CALCULATOR *****");
     println!("*******************");
 }
 
